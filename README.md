@@ -1,4 +1,3 @@
-```markdown
 # Python Language Learning Project
 
 Welcome to the **PythonBrokenEnglish or Python Language Learning Project**, a comprehensive initiative aimed at enhancing language learning through various multimedia resources. This project is designed not only to assist learners in understanding and speaking English, particularly for non-native speakers, but also to provide tutorials in their native languages. 
@@ -6,6 +5,7 @@ Welcome to the **PythonBrokenEnglish or Python Language Learning Project**, a co
 By leveraging audio materials, example scripts, and instructional videos, this project aims to facilitate language acquisition in an engaging and effective manner.
 
 ## Table of Contents
+```markdown
 
 - [Project Overview](#project-overview)
 - [Directory Structure](#directory-structure)
@@ -14,7 +14,7 @@ By leveraging audio materials, example scripts, and instructional videos, this p
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-
+```
 ## Project Overview
 
 The Python Language Learning Project is designed to provide learners with resources that cater to different languages, including Hausa, Igbo, Yoruba, and English. This project offers:
@@ -167,6 +167,3 @@ For any inquiries or feedback, please reach out to:
 
 Thank you for your interest in the Python Language Learning Project. We hope you find these resources helpful in your language learning journey!
 
-
-
-```

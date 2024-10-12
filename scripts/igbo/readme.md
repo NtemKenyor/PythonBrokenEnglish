@@ -1,1 +1,1 @@
-# This directory should only contain audio files in broken english [africa]
+# This directory should only contain scripts in igbo

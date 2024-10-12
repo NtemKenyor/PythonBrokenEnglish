@@ -1,1 +1,1 @@
-# This directory should only contain video files in broken english [africa]
+# This directory should only contain video files in english
