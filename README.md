@@ -6,15 +6,16 @@ By leveraging audio materials, example scripts, and instructional videos, this p
 
 ## Table of Contents
 ```markdown
-
 - [Project Overview](#project-overview)
 - [Directory Structure](#directory-structure)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Instructional Videos](#instructional-videos)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 ```
+
 ## Project Overview
 
 The Python Language Learning Project is designed to provide learners with resources that cater to different languages, including Hausa, Igbo, Yoruba, and English. This project offers:
@@ -118,6 +119,14 @@ python examples/first_example.py
 
 Feel free to modify the scripts and explore the audio and video content to enhance your learning experience!
 
+## Instructional Videos
+
+Here are some instructional videos to aid your learning:
+
+[![Watch the video](https://img.youtube.com/vi/780r81dI730/0.jpg)](https://youtu.be/780r81dI730)  
+*Click the image above to watch the video: Introduction to Python Language Learning*
+
+
 ## Contributing
 
 We welcome contributions from the community! To contribute to the Python Language Learning Project, please follow these steps:
@@ -162,8 +171,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries or feedback, please reach out to:
 
-- **Your Name**: [Your Email]
-- **GitHub**: [Your GitHub Profile Link]
+- **Your Name**: nkenyor@gmail.com
+- **GitHub**: https://github.com/PythonEducationVid/PythonBrokenEnglish
 
 Thank you for your interest in the Python Language Learning Project. We hope you find these resources helpful in your language learning journey!
+```
 
+### Changes Made
+- Added an image link that acts as a thumbnail for the YouTube video. When users click on the image, it will direct them to the video.
